@@ -16,3 +16,4 @@ console.log(Array.isArray(ary3));
 let ary4 = Array.from(ary2)
 console.log(ary4);
 console.log(ary2);
+console.log(ary2);
